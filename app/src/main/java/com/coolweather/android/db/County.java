@@ -1,5 +1,7 @@
 package com.coolweather.android.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * 县城信息
  *
@@ -7,7 +9,7 @@ package com.coolweather.android.db;
  * @date 2017/10/28
  */
 
-public class County {
+public class County extends DataSupport {
 
     private int id;
     private String countyName;
