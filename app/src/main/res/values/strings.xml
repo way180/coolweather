@@ -9,4 +9,12 @@
     <string name="county">county</string>
     <string name="showProgressDialog">正在加载···</string>
     <string name="loadingFailure">加载失败</string>
+    <string name="forecast">预报</string>
+    <string name="airQuality">空气质量</string>
+    <string name="pm2_5">PM2.5指数</string>
+    <string name="lifeAdvice">生活建议</string>
+    <string name="getWeatherInfoFailure">获取天气信息失败</string>
+    <string name="comfort">舒适度：</string>
+    <string name="carWash">洗车指数：</string>
+    <string name="sport">运动建议：</string>
 </resources>

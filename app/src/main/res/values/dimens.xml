@@ -2,5 +2,9 @@
 <resources>
     <dimen name="text_20sp">20sp</dimen>
     <dimen name="btn_25dp">25dp</dimen>
-    <dimen name="marginLeft_15dp">15dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="text_16sp">16sp</dimen>
+    <dimen name="text_60sp">60sp</dimen>
+    <dimen name="text_40sp">40sp</dimen>
 </resources>
